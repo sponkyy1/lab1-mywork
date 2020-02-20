@@ -1,5 +1,5 @@
 language: csharp    
-mono: alpha
+mono: none
 dotnet: 3.1     
 solution: ConsoleApp1.sln  
 script:    
