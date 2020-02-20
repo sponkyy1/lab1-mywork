@@ -10,7 +10,7 @@ namespace ConsoleApp1Test
         {
             int a = 654;
             int result = ConsoleApp1.Program.Example(a);
-            Assert.AreEqual(654, result);
+            Assert.AreEqual(result);
         }
     }
 }
